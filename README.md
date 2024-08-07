@@ -55,15 +55,15 @@ The following table categorizes different types of forgery based on various mani
 
 We provide two versions of the IDForge dataset. 
 
-* IDForge v1 is the original files, consisting of the mp4 files for each video.
+* `IDForge v1` is the original version, consisting of videos in .mp4 format for each type of forgery.
 
-* IDForge v2  is the dataset used in our paper, where each video retains 16 frames (sampled in 4 groups with equal intervals, 4 frames per group), audio files, and extracted text. 
+* `IDForge v2`  is the version used in our paper, where each preprocessed video retains 16 frames (sampled in 4 groups at equal intervals, 4 frames per group), audio files, and extracted text.
 
-  >  The IDForge v2 builds on the IDForge v1 by adding compression and super-resolution operations to simulate real-world conditions.
+  >  The `IDForge v2` builds on the `IDForge v1` by adding compression and super-resolution operations to simulate real-world conditions.
 
 ### IDForge v1
 
-There are two parts in IDForge v1:
+There are two parts in `IDForge v1`:
 
 * `main`: main part of the dataset, containing 11 types of data. 
 
@@ -139,7 +139,7 @@ Main Folder Structure (reference set is similar):
 
 ### IDForge v2
 
-There are 4 parts in IDForge v2:
+There are 4 parts in `IDForge v2`:
 
 * ref
 * train
