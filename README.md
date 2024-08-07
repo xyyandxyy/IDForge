@@ -193,7 +193,8 @@ Train Folder Structure (others are similar):
 
 - [x] Open access requests for IDForge.
 - [x] Provide mp4 version.
-- [ ] Provide samples.
+- [x] Provide samples.
+- [ ] Provide more samples.
 
 
 
