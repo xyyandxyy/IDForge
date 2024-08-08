@@ -69,6 +69,8 @@ There are two parts in `IDForge v1`:
 
   All data are in `.mp4` format. Each type of data are in a independent zip file, you can only download and extra the data you need.
 
+  Metadata are provided in .
+
   ```
   .
   |-- face_audiomismatch_textmismatch.zip
