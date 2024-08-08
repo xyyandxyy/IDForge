@@ -69,7 +69,7 @@ There are two parts in `IDForge v1`:
 
   All data are in `.mp4` format. Each type of data are in a independent zip file, you can only download and extra the data you need.
 
-  Metadata are provided in .
+  Metadata are provided [here](https://github.com/xyyandxyy/IDForge/tree/main/IDForge_v1) .
 
   ```
   .
