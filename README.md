@@ -11,7 +11,7 @@ In response to the potential hazards of these media forgeries, many researchers 
 
 ## 🫱 Access IDForge
 
-You can request our dataset in this link: ~~👉 https://request.idforge.cfd/ 👈~~ (maintaining in 10 October 2024) (Send you request to idforge_access@outlook.com)
+You can request our dataset in this link: ~~👉 https://request.idforge.cfd/ 👈~~ (maintaining in 10 August 2024) (Send you request to idforge_access@outlook.com)
 
 > Request will be processed in 1-3 days. 
 > 
