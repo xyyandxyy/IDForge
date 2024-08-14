@@ -11,8 +11,27 @@ In response to the potential hazards of these media forgeries, many researchers 
 
 ## 🫱 Access IDForge
 
-You can request our dataset in this link: 👉 https://request.idforge.cfd/ 👈
+**Video Generation Training and Other Fair Uses**
 
+For those interested in utilizing our dataset for video generation training or similar fair use purposes, you can download the pristine portion along with the reference set of `IDForge v1` here:
+
+`pristine` part (80,000 real videos featuring people speaking): 
+* GoogleDrvie: https://drive.google.com/file/d/1-HdZZd7D0rBiVbIXc2f2IbuWuoPVrnzV/view?usp=drive_link
+* Baidu Netdisk: https://pan.baidu.com/s/1xSux61CI3SA6B4rqFez3BQ?pwd=kgdn (access code: kgdn)
+
+
+Reference set (214,438 real videos featuring people speaking):
+* GoogleDrvie: https://drive.google.com/drive/folders/1-yAj1P5iIqzakTMtMR5s7FJFZfALMiQH?usp=drive_link
+* Baidu Netdisk:  https://pan.baidu.com/s/1DEAX5z3smwCGSnaV2OYb6A?pwd=k4xb (access code: k4xb)
+
+
+**Forgery Detection**
+
+If you’re working on forgery detection, our full dataset is available upon request. To access it, please submit a request through the following link: 👉 https://request.idforge.cfd/ 👈
+
+
+> To prevent the malicious use of forged videos, we carefully review all requests for access to the full dataset.
+> 
 > Request will be processed in 1-3 days. 
 > 
 > If you encounter any issues or do not receive a response within the expected timeframe, please contact idforge_access@outlook.com 🙋‍♂️.
