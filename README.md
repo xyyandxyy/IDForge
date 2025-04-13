@@ -51,6 +51,8 @@ The following table categorizes different types of forgery based on various mani
 | lip_tts_textgen                 | 1    | 1                   | 0            | 0             | 1                        | 0                      | 0               | 1              | 0              |
 | pristine                        | 0    | 0                   | 0            | 0             | 0                        | 0                      | 0               | 0              | 0              |
 | rvc_textmismatch                | 1    | 0                   | 0            | 0             | 0                        | 1                      | 0               | 0              | 1              |
+| tts_textgen                     | 1    | 0                   | 0            | 0             | 1                        | 0                      | 0               | 1              | 0              |
+| tts_textmismatch                | 1    | 0                   | 0            | 0             | 1                        | 0                      | 0               | 0              | 1              |
 
 - **Lip synchronization** (*lip*): This method aligns lip movements in a video to correspond with a new audio track. We employ Wav2Lip for precise lip synchronization.
 
