@@ -29,8 +29,6 @@ Reference set (214,438 real videos featuring people speaking):
 
 If you’re working on forgery detection, our full dataset is available upon request. To access it, please submit a request through the following link: 👉 https://request.idforge.icu/ 👈
 
-During our server migration from June, 2026 to July 2026, if you need access to the dataset, please contact us directly at  
-`junhaoxu23@m.fudan.edu.cn`.
 
 
 > To prevent the malicious use of forged videos, we carefully review all requests for access to the full dataset.
