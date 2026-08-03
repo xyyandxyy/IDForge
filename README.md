@@ -27,7 +27,7 @@ Reference set (214,438 real videos featuring people speaking):
 
 **Forgery Detection**
 
-If you’re working on forgery detection, our full dataset is available upon request. To access it, please submit a request through the following link: 👉 https://request.idforge.icu/ 👈
+If you’re working on forgery detection, our full dataset is available upon request. To access it, please submit a request through the following link: 👉 https://request.idforge.cfd/ 👈
 
 
 
