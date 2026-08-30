@@ -2,6 +2,8 @@
 
 <a href='https://arxiv.org/abs/2401.11764'><img src='https://img.shields.io/badge/Paper-Arxiv-red'></a> <a href='https://request.idforge.cfd/ '><img src='https://img.shields.io/badge/Request-IDForge-blue '></a>
 
+✨ [2026.1] Check out our related identity-aware face forgery detection work, [Identity-Aware Vision-Language Model for Explainable Face Forgery Detection](https://github.com/xyyandxyy/IDImage) (**AAAI 2026 Oral**), with code and data publicly available.
+
 ## Dataset Overview
 
 Recent advancements in "deepfake" techniques have paved the way for generating various media forgeries.
