@@ -27,15 +27,15 @@ Reference set (214,438 real videos featuring people speaking):
 
 **Forgery Detection**
 
-If you’re working on forgery detection, our full dataset is available upon request. To access it, please submit a request through the following link: 👉 https://request.idforge.cfd/ 👈
+IDForge v1 (Original Videos)
+* onedrive: https://lmsfo-my.sharepoint.com/:f:/g/personal/idforgeaccess2_ms_brs_red/EjhAUKKJvrhAvdzQYRYtLokBAisHKxxFSn-z3zLDk2tZ-g?e=lXWBFP
+* Baidu Netdisk: https://pan.baidu.com/s/1LZZoj347wOOjYHGEFt_ofw?pwd=hdji (access code: hdji)
+* GoogleDrive: https://drive.google.com/drive/folders/1Ny-mZ27uIqJU0mbLeSbadBrbwP_6Kh4h?usp=drive_link
 
-
-
-> To prevent the malicious use of forged videos, we carefully review all requests for access to the full dataset.
-> 
-> Request will be processed in 1-3 days. 
-> 
-> If you encounter any issues or do not receive a response within the expected timeframe, please contact idforge_access@outlook.com 🙋‍♂️.
+IDForge v2 (Preprocessed Data)
+* onedrive: https://lmsfo-my.sharepoint.com/:f:/g/personal/idforgeaccess1_ms_brs_red/ErHf6M2kDTBIv4iw2cGT_1QBQSkUpxIkOZyH0Q9_fWSz_A?e=g8fshT
+* Baidu Netdisk: https://pan.baidu.com/s/1f5s8JcGxB9J9By_ZCtVA9g?pwd=ng26 (access code: ng26)
+* GoogleDrvie: https://drive.google.com/drive/folders/1v37gEoubboIzbijyBIa4mJtg1GiFyAzN?usp=sharing
 
 ## Types of forgery
 
